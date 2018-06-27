@@ -20,6 +20,7 @@ def get_data():
 
 
 def main():
+    get_data()
     schedule.every(1).hour.do(get_data)
 
     while 1:
