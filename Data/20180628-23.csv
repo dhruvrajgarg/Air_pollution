@@ -1,0 +1,679 @@
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,PM2.5,13,72,27,NA
+2,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,PM10,12,86,34,NA
+3,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,NO2,4,82,22,NA
+4,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,NH3,2,4,3,NA
+5,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,SO2,1,12,6,NA
+6,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,CO,12,60,31,NA
+7,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",2018-06-28T11:00:00Z,OZONE,6,71,34,NA
+8,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,PM2.5,3,60,19,NA
+9,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,PM10,4,75,26,NA
+10,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,NO2,8,70,22,NA
+11,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,NH3,3,4,3,NA
+12,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,SO2,7,11,9,NA
+13,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,CO,17,102,62,NA
+14,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",2018-06-28T11:00:00Z,OZONE,21,73,46,NA
+15,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,PM2.5,6,30,16,NA
+16,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,PM10,25,46,36,NA
+17,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,NO2,9,62,33,NA
+18,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,NH3,1,2,1,NA
+19,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,SO2,5,8,7,NA
+20,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,CO,7,37,30,NA
+21,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",2018-06-28T11:00:00Z,OZONE,10,22,16,NA
+22,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,PM2.5,8,97,43,NA
+23,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,PM10,12,88,45,NA
+24,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,NO2,9,10,10,NA
+25,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,NH3,2,2,2,NA
+26,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,SO2,10,17,15,NA
+27,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,CO,8,116,80,NA
+28,India,Andhra_Pradesh,Vijayawada,"PWD Grounds, Vijayawada - APPCB",2018-06-28T11:00:00Z,OZONE,13,23,18,NA
+29,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,PM2.5,26,76,46,NA
+30,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,PM10,27,118,70,NA
+31,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,NO2,21,69,48,NA
+32,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,NH3,2,4,2,NA
+33,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,SO2,7,89,22,NA
+34,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,CO,2,40,29,NA
+35,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",2018-06-28T11:00:00Z,OZONE,5,33,12,NA
+36,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",2018-06-28T11:00:00Z,PM2.5,12,142,67,NA
+37,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",2018-06-28T11:00:00Z,NO2,24,44,33,NA
+38,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",2018-06-28T11:00:00Z,SO2,16,20,18,NA
+39,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",2018-06-28T11:00:00Z,CO,56,88,72,NA
+40,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",2018-06-28T11:00:00Z,OZONE,28,52,44,NA
+41,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate,Muzaffarpur - BSPCB",2018-06-28T11:00:00Z,PM2.5,10,51,24,NA
+42,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate,Muzaffarpur - BSPCB",2018-06-28T11:00:00Z,NO2,53,83,66,NA
+43,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate,Muzaffarpur - BSPCB",2018-06-28T11:00:00Z,SO2,76,117,106,NA
+44,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate,Muzaffarpur - BSPCB",2018-06-28T11:00:00Z,CO,21,80,30,NA
+45,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate,Muzaffarpur - BSPCB",2018-06-28T11:00:00Z,OZONE,49,164,122,NA
+46,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",2018-06-28T11:00:00Z,PM2.5,18,89,58,NA
+47,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",2018-06-28T11:00:00Z,NO2,54,163,95,NA
+48,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",2018-06-28T11:00:00Z,SO2,29,69,49,NA
+49,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",2018-06-28T11:00:00Z,CO,9,95,61,NA
+50,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB",2018-06-28T11:00:00Z,OZONE,31,93,54,NA
+51,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,12,78,45,NA
+52,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,3,80,47,NA
+53,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,9,30,14,NA
+54,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,8,13,10,NA
+55,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,2,16,6,NA
+56,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,CO,15,57,30,NA
+57,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,20,81,56,NA
+58,India,Delhi,Delhi,"CRRI Mathura Road, New Delhi - IMD",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+59,India,Delhi,Delhi,"CRRI Mathura Road, New Delhi - IMD",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+60,India,Delhi,Delhi,"CRRI Mathura Road, New Delhi - IMD",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+61,India,Delhi,Delhi,"CRRI Mathura Road, New Delhi - IMD",2018-06-28T11:00:00Z,CO,NA,NA,NA,NA
+62,India,Delhi,Delhi,"CRRI Mathura Road, New Delhi - IMD",2018-06-28T11:00:00Z,OZONE,NA,NA,NA,NA
+63,India,Delhi,Delhi,"DTU, New Delhi - CPCB",2018-06-28T11:00:00Z,PM2.5,12,83,42,NA
+64,India,Delhi,Delhi,"DTU, New Delhi - CPCB",2018-06-28T11:00:00Z,PM10,18,106,61,NA
+65,India,Delhi,Delhi,"DTU, New Delhi - CPCB",2018-06-28T11:00:00Z,NO2,32,35,33,NA
+66,India,Delhi,Delhi,"DTU, New Delhi - CPCB",2018-06-28T11:00:00Z,NH3,1,2,1,NA
+67,India,Delhi,Delhi,"DTU, New Delhi - CPCB",2018-06-28T11:00:00Z,CO,17,46,24,NA
+68,India,Delhi,Delhi,"DTU, New Delhi - CPCB",2018-06-28T11:00:00Z,OZONE,3,25,7,NA
+69,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,8,57,33,NA
+70,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,7,78,26,NA
+71,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,11,67,25,NA
+72,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,7,13,9,NA
+73,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,10,21,15,NA
+74,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,CO,27,45,33,NA
+75,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,6,84,50,NA
+76,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+77,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+78,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+79,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+80,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+81,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,8,51,31,NA
+82,India,Delhi,Delhi,"IGI Airport (T3), New Delhi - IMD",2018-06-28T11:00:00Z,PM2.5,3,61,26,NA
+83,India,Delhi,Delhi,"IGI Airport (T3), New Delhi - IMD",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+84,India,Delhi,Delhi,"IGI Airport (T3), New Delhi - IMD",2018-06-28T11:00:00Z,NO2,18,20,19,NA
+85,India,Delhi,Delhi,"IGI Airport (T3), New Delhi - IMD",2018-06-28T11:00:00Z,CO,66,85,76,NA
+86,India,Delhi,Delhi,"IGI Airport (T3), New Delhi - IMD",2018-06-28T11:00:00Z,OZONE,19,31,28,NA
+87,India,Delhi,Delhi,"IHBAS, Dilshad Garden,New Delhi - CPCB",2018-06-28T11:00:00Z,PM2.5,45,159,79,NA
+88,India,Delhi,Delhi,"IHBAS, Dilshad Garden,New Delhi - CPCB",2018-06-28T11:00:00Z,NO2,22,89,37,NA
+89,India,Delhi,Delhi,"IHBAS, Dilshad Garden,New Delhi - CPCB",2018-06-28T11:00:00Z,NH3,9,17,12,NA
+90,India,Delhi,Delhi,"IHBAS, Dilshad Garden,New Delhi - CPCB",2018-06-28T11:00:00Z,SO2,9,21,15,NA
+91,India,Delhi,Delhi,"IHBAS, Dilshad Garden,New Delhi - CPCB",2018-06-28T11:00:00Z,CO,5,158,30,NA
+92,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,PM2.5,5,500,118,NA
+93,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,PM10,14,266,97,NA
+94,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,NO2,46,113,76,NA
+95,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,NH3,12,56,33,NA
+96,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,SO2,3,8,6,NA
+97,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,CO,40,102,87,NA
+98,India,Delhi,Delhi,"ITO, New Delhi - CPCB",2018-06-28T11:00:00Z,OZONE,12,27,17,NA
+99,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+100,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+101,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+102,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+103,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+104,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,CO,45,60,56,NA
+105,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,25,71,44,NA
+106,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,22,55,37,NA
+107,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,5,79,39,NA
+108,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,27,78,40,NA
+109,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,9,17,12,NA
+110,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,1,6,4,NA
+111,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,CO,30,45,37,NA
+112,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,12,74,64,NA
+113,India,Delhi,Delhi,"Lodhi Road, New Delhi - IMD",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+114,India,Delhi,Delhi,"Lodhi Road, New Delhi - IMD",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+115,India,Delhi,Delhi,"Lodhi Road, New Delhi - IMD",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+116,India,Delhi,Delhi,"Lodhi Road, New Delhi - IMD",2018-06-28T11:00:00Z,CO,NA,NA,NA,NA
+117,India,Delhi,Delhi,"Lodhi Road, New Delhi - IMD",2018-06-28T11:00:00Z,OZONE,NA,NA,NA,NA
+118,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,20,50,33,NA
+119,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,8,89,49,NA
+120,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,17,79,39,NA
+121,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,5,17,10,NA
+122,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,13,15,14,NA
+123,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,CO,20,60,37,NA
+124,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,3,67,35,NA
+125,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,12,98,40,NA
+126,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,PM10,1,70,38,NA
+127,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,NO2,32,66,44,NA
+128,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,NH3,3,11,6,NA
+129,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,SO2,12,18,14,NA
+130,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,CO,5,58,23,NA
+131,India,Delhi,Delhi,"Mandir Marg, New Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,1,15,8,NA
+132,India,Delhi,Delhi,"NSIT Dwarka, New Delhi - CPCB",2018-06-28T11:00:00Z,PM2.5,38,133,69,NA
+133,India,Delhi,Delhi,"NSIT Dwarka, New Delhi - CPCB",2018-06-28T11:00:00Z,NO2,18,29,21,NA
+134,India,Delhi,Delhi,"NSIT Dwarka, New Delhi - CPCB",2018-06-28T11:00:00Z,SO2,6,12,8,NA
+135,India,Delhi,Delhi,"NSIT Dwarka, New Delhi - CPCB",2018-06-28T11:00:00Z,CO,8,16,12,NA
+136,India,Delhi,Delhi,"NSIT Dwarka, New Delhi - CPCB",2018-06-28T11:00:00Z,OZONE,11,195,20,NA
+137,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,5,47,23,NA
+138,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,1,58,27,NA
+139,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,14,59,30,NA
+140,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,4,16,10,NA
+141,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,2,8,3,NA
+142,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,CO,50,85,65,NA
+143,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,13,80,55,NA
+144,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+145,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+146,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+147,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+148,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+149,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,CO,15,30,23,NA
+150,India,Delhi,Delhi,"Narela, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,18,44,31,NA
+151,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,8,48,25,NA
+152,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,11,92,48,NA
+153,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,25,82,41,NA
+154,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,5,7,6,NA
+155,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,6,12,9,NA
+156,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,CO,37,72,48,NA
+157,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,4,72,40,NA
+158,India,Delhi,Delhi,"North Campus, DU, New Delhi - IMD",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+159,India,Delhi,Delhi,"North Campus, DU, New Delhi - IMD",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+160,India,Delhi,Delhi,"North Campus, DU, New Delhi - IMD",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+161,India,Delhi,Delhi,"North Campus, DU, New Delhi - IMD",2018-06-28T11:00:00Z,OZONE,16,56,35,NA
+162,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,8,48,27,NA
+163,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+164,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,14,33,20,NA
+165,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,6,11,9,NA
+166,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,4,12,10,NA
+167,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,CO,45,72,55,NA
+168,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,4,19,11,NA
+169,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,13,73,35,NA
+170,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,9,94,56,NA
+171,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,9,39,21,NA
+172,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,9,14,12,NA
+173,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,3,8,5,NA
+174,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,CO,22,63,34,NA
+175,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,6,69,40,NA
+176,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,8,147,51,NA
+177,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,6,129,65,NA
+178,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,26,98,59,NA
+179,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,12,15,13,NA
+180,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,5,25,12,NA
+181,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,CO,22,75,47,NA
+182,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,4,94,16,NA
+183,India,Delhi,Delhi,"Pusa, New Delhi - IMD",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+184,India,Delhi,Delhi,"Pusa, New Delhi - IMD",2018-06-28T11:00:00Z,PM10,5,58,27,NA
+185,India,Delhi,Delhi,"Pusa, New Delhi - IMD",2018-06-28T11:00:00Z,NO2,18,19,18,NA
+186,India,Delhi,Delhi,"Pusa, New Delhi - IMD",2018-06-28T11:00:00Z,CO,1,5,2,NA
+187,India,Delhi,Delhi,"Pusa, New Delhi - IMD",2018-06-28T11:00:00Z,OZONE,13,25,22,NA
+188,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,23,150,55,NA
+189,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,PM10,3,118,56,NA
+190,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,NO2,58,134,84,NA
+191,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,NH3,13,16,14,NA
+192,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,SO2,16,24,20,NA
+193,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,CO,18,72,48,NA
+194,India,Delhi,Delhi,"R K Puram, New Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,6,37,19,NA
+195,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,22,92,54,NA
+196,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,6,129,54,NA
+197,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,16,67,31,NA
+198,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,12,20,16,NA
+199,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,12,17,14,NA
+200,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,CO,25,65,39,NA
+201,India,Delhi,Delhi,"Rohini, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,16,63,36,NA
+202,India,Delhi,Delhi,"Shadipur, New Delhi - CPCB",2018-06-28T11:00:00Z,PM2.5,54,132,81,NA
+203,India,Delhi,Delhi,"Shadipur, New Delhi - CPCB",2018-06-28T11:00:00Z,NO2,30,92,56,NA
+204,India,Delhi,Delhi,"Shadipur, New Delhi - CPCB",2018-06-28T11:00:00Z,SO2,2,13,8,NA
+205,India,Delhi,Delhi,"Shadipur, New Delhi - CPCB",2018-06-28T11:00:00Z,CO,25,70,41,NA
+206,India,Delhi,Delhi,"Shadipur, New Delhi - CPCB",2018-06-28T11:00:00Z,OZONE,8,56,34,NA
+207,India,Delhi,Delhi,"Sirifort, New Delhi - CPCB",2018-06-28T11:00:00Z,PM2.5,12,39,23,NA
+208,India,Delhi,Delhi,"Sirifort, New Delhi - CPCB",2018-06-28T11:00:00Z,PM10,3,500,231,NA
+209,India,Delhi,Delhi,"Sirifort, New Delhi - CPCB",2018-06-28T11:00:00Z,NO2,21,50,29,NA
+210,India,Delhi,Delhi,"Sirifort, New Delhi - CPCB",2018-06-28T11:00:00Z,NH3,6,11,8,NA
+211,India,Delhi,Delhi,"Sirifort, New Delhi - CPCB",2018-06-28T11:00:00Z,CO,13,55,29,NA
+212,India,Delhi,Delhi,"Sirifort, New Delhi - CPCB",2018-06-28T11:00:00Z,OZONE,1,61,33,NA
+213,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,2,163,41,NA
+214,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,7,90,44,NA
+215,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+216,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,9,14,11,NA
+217,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,6,12,9,NA
+218,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,CO,20,62,35,NA
+219,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,11,93,51,NA
+220,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,20,303,60,NA
+221,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,13,116,53,NA
+222,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,20,48,30,NA
+223,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,6,11,8,NA
+224,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,7,25,12,NA
+225,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,CO,30,55,39,NA
+226,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,5,187,67,NA
+227,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+228,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,PM10,8,196,107,NA
+229,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,NO2,29,91,55,NA
+230,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,NH3,11,18,14,NA
+231,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,SO2,20,29,25,NA
+232,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,CO,40,92,64,NA
+233,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",2018-06-28T11:00:00Z,OZONE,5,48,25,NA
+234,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",2018-06-28T11:00:00Z,PM2.5,16,97,60,NA
+235,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",2018-06-28T11:00:00Z,NO2,33,100,57,NA
+236,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",2018-06-28T11:00:00Z,SO2,29,102,70,NA
+237,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",2018-06-28T11:00:00Z,CO,22,111,50,NA
+238,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",2018-06-28T11:00:00Z,OZONE,1,30,19,NA
+239,India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",2018-06-28T11:00:00Z,PM2.5,17,500,136,NA
+240,India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",2018-06-28T11:00:00Z,NO2,21,46,37,NA
+241,India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",2018-06-28T11:00:00Z,SO2,1,6,3,NA
+242,India,Haryana,Faridabad,"Sector- 16A, Faridabad, Haryana - HSPCB",2018-06-28T11:00:00Z,OZONE,7,35,25,NA
+243,India,Haryana,Gurgaon,"Vikas Sadan, Gurgaon, Haryana - HSPCB",2018-06-28T11:00:00Z,PM2.5,37,354,142,NA
+244,India,Haryana,Gurgaon,"Vikas Sadan, Gurgaon, Haryana - HSPCB",2018-06-28T11:00:00Z,NO2,25,27,26,NA
+245,India,Haryana,Gurgaon,"Vikas Sadan, Gurgaon, Haryana - HSPCB",2018-06-28T11:00:00Z,SO2,2,11,5,NA
+246,India,Haryana,Gurgaon,"Vikas Sadan, Gurgaon, Haryana - HSPCB",2018-06-28T11:00:00Z,CO,20,179,73,NA
+247,India,Haryana,Gurgaon,"Vikas Sadan, Gurgaon, Haryana - HSPCB",2018-06-28T11:00:00Z,OZONE,17,47,32,NA
+248,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",2018-06-28T11:00:00Z,PM2.5,10,110,42,NA
+249,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",2018-06-28T11:00:00Z,NO2,29,38,35,NA
+250,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",2018-06-28T11:00:00Z,SO2,2,19,9,NA
+251,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",2018-06-28T11:00:00Z,CO,11,35,20,NA
+252,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB",2018-06-28T11:00:00Z,OZONE,3,22,12,NA
+253,India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",2018-06-28T11:00:00Z,PM2.5,4,102,20,NA
+254,India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",2018-06-28T11:00:00Z,SO2,1,123,29,NA
+255,India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",2018-06-28T11:00:00Z,CO,12,136,53,NA
+256,India,Haryana,Rohtak,"MD University, Rohtak, Haryana - HSPCB",2018-06-28T11:00:00Z,OZONE,21,30,25,NA
+257,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",2018-06-28T11:00:00Z,PM2.5,1,62,7,NA
+258,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",2018-06-28T11:00:00Z,NO2,18,107,38,NA
+259,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",2018-06-28T11:00:00Z,SO2,2,12,8,NA
+260,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",2018-06-28T11:00:00Z,CO,26,102,54,NA
+261,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB",2018-06-28T11:00:00Z,OZONE,13,25,18,NA
+262,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",2018-06-28T11:00:00Z,PM2.5,17,47,24,NA
+263,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",2018-06-28T11:00:00Z,NO2,18,33,24,NA
+264,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",2018-06-28T11:00:00Z,SO2,4,6,5,NA
+265,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",2018-06-28T11:00:00Z,CO,36,45,40,NA
+266,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",2018-06-28T11:00:00Z,OZONE,6,25,14,NA
+267,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+268,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",2018-06-28T11:00:00Z,NO2,6,18,11,NA
+269,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",2018-06-28T11:00:00Z,NH3,8,11,11,NA
+270,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",2018-06-28T11:00:00Z,SO2,3,12,8,NA
+271,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",2018-06-28T11:00:00Z,CO,20,54,37,NA
+272,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",2018-06-28T11:00:00Z,PM10,16,55,34,NA
+273,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",2018-06-28T11:00:00Z,NO2,9,27,16,NA
+274,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",2018-06-28T11:00:00Z,SO2,5,6,5,NA
+275,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",2018-06-28T11:00:00Z,CO,31,54,45,NA
+276,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,PM2.5,7,45,24,NA
+277,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,PM10,18,51,35,NA
+278,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,NO2,1,19,7,NA
+279,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,NH3,1,3,1,NA
+280,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,SO2,5,17,8,NA
+281,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,CO,7,60,34,NA
+282,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",2018-06-28T11:00:00Z,OZONE,12,38,29,NA
+283,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,PM2.5,17,305,77,NA
+284,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,PM10,28,112,74,NA
+285,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,NO2,13,38,22,NA
+286,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,NH3,2,12,6,NA
+287,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,SO2,2,15,5,NA
+288,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,CO,21,66,47,NA
+289,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB",2018-06-28T11:00:00Z,OZONE,23,63,38,NA
+290,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+291,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+292,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+293,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+294,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+295,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,CO,27,63,53,NA
+296,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",2018-06-28T11:00:00Z,OZONE,4,25,23,NA
+297,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,PM2.5,12,77,47,NA
+298,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,PM10,20,129,82,NA
+299,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,NO2,3,19,8,NA
+300,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,NH3,2,6,3,NA
+301,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,SO2,5,15,8,NA
+302,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,CO,20,32,25,NA
+303,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",2018-06-28T11:00:00Z,OZONE,19,55,29,NA
+304,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - MPPCB",2018-06-28T11:00:00Z,PM2.5,3,60,14,NA
+305,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - MPPCB",2018-06-28T11:00:00Z,PM10,7,500,67,NA
+306,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - MPPCB",2018-06-28T11:00:00Z,SO2,23,32,28,NA
+307,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - MPPCB",2018-06-28T11:00:00Z,CO,41,100,87,NA
+308,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+309,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+310,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+311,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+312,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+313,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,CO,29,34,31,NA
+314,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB",2018-06-28T11:00:00Z,OZONE,19,29,24,NA
+315,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,PM2.5,19,74,49,NA
+316,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,PM10,19,101,64,NA
+317,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,NO2,5,19,10,NA
+318,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,NH3,4,8,5,NA
+319,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,SO2,1,8,3,NA
+320,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,CO,19,47,37,NA
+321,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",2018-06-28T11:00:00Z,OZONE,27,97,58,NA
+322,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2018-06-28T11:00:00Z,PM10,34,65,51,NA
+323,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+324,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+325,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2018-06-28T11:00:00Z,SO2,1,13,6,NA
+326,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2018-06-28T11:00:00Z,CO,8,40,27,NA
+327,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2018-06-28T11:00:00Z,OZONE,3,54,32,NA
+328,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+329,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+330,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+331,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+332,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+333,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,CO,15,18,17,NA
+334,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",2018-06-28T11:00:00Z,OZONE,52,65,58,NA
+335,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2018-06-28T11:00:00Z,PM2.5,1,10,3,NA
+336,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2018-06-28T11:00:00Z,PM10,10,58,22,NA
+337,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2018-06-28T11:00:00Z,NO2,3,7,4,NA
+338,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+339,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2018-06-28T11:00:00Z,CO,22,22,22,NA
+340,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2018-06-28T11:00:00Z,OZONE,23,43,31,NA
+341,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",2018-06-28T11:00:00Z,PM2.5,1,51,24,NA
+342,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",2018-06-28T11:00:00Z,PM10,9,118,59,NA
+343,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",2018-06-28T11:00:00Z,NO2,23,92,43,NA
+344,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",2018-06-28T11:00:00Z,SO2,17,24,22,NA
+345,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",2018-06-28T11:00:00Z,CO,56,103,95,NA
+346,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",2018-06-28T11:00:00Z,OZONE,13,40,24,NA
+347,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,PM2.5,5,38,24,NA
+348,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,PM10,14,52,36,NA
+349,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,NO2,5,38,19,NA
+350,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,NH3,1,3,2,NA
+351,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+352,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,CO,3,100,70,NA
+353,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2018-06-28T11:00:00Z,OZONE,7,22,14,NA
+354,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2018-06-28T11:00:00Z,PM2.5,12,40,26,NA
+355,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2018-06-28T11:00:00Z,PM10,33,58,46,NA
+356,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2018-06-28T11:00:00Z,NO2,7,16,11,NA
+357,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2018-06-28T11:00:00Z,SO2,1,4,1,NA
+358,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2018-06-28T11:00:00Z,CO,1,37,22,NA
+359,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2018-06-28T11:00:00Z,OZONE,20,53,44,NA
+360,India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",2018-06-28T11:00:00Z,PM2.5,30,67,47,NA
+361,India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",2018-06-28T11:00:00Z,PM10,19,76,52,NA
+362,India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",2018-06-28T11:00:00Z,NO2,14,15,15,NA
+363,India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",2018-06-28T11:00:00Z,SO2,38,41,39,NA
+364,India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",2018-06-28T11:00:00Z,CO,43,64,58,NA
+365,India,Maharashtra,Pune,"Karve Road Pune, Pune - MPCB",2018-06-28T11:00:00Z,OZONE,8,8,8,NA
+366,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",2018-06-28T11:00:00Z,PM2.5,5,56,23,NA
+367,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",2018-06-28T11:00:00Z,PM10,30,71,48,NA
+368,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",2018-06-28T11:00:00Z,NO2,3,36,14,NA
+369,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",2018-06-28T11:00:00Z,SO2,9,15,13,NA
+370,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",2018-06-28T11:00:00Z,CO,6,33,19,NA
+371,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB",2018-06-28T11:00:00Z,OZONE,21,48,37,NA
+372,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,PM2.5,13,500,126,NA
+373,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,PM10,29,58,44,NA
+374,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,NO2,11,21,15,NA
+375,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,NH3,6,13,9,NA
+376,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,SO2,2,6,3,NA
+377,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,CO,31,72,53,NA
+378,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",2018-06-28T11:00:00Z,OZONE,1,8,3,NA
+379,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,PM2.5,1,80,32,NA
+380,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,PM10,4,85,39,NA
+381,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,NO2,6,13,10,NA
+382,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,NH3,1,2,1,NA
+383,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,SO2,15,16,15,NA
+384,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,CO,105,107,106,NA
+385,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",2018-06-28T11:00:00Z,OZONE,5,22,10,NA
+386,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,PM2.5,8,55,25,NA
+387,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,PM10,16,100,55,NA
+388,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+389,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+390,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,SO2,44,60,52,NA
+391,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,CO,96,102,100,NA
+392,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",2018-06-28T11:00:00Z,OZONE,9,27,16,NA
+393,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,PM2.5,11,82,38,NA
+394,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,PM10,31,80,47,NA
+395,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,NO2,20,23,21,NA
+396,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,NH3,1,2,2,NA
+397,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,SO2,5,48,16,NA
+398,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,CO,117,117,117,NA
+399,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",2018-06-28T11:00:00Z,OZONE,12,44,24,NA
+400,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",2018-06-28T11:00:00Z,PM2.5,41,98,73,NA
+401,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",2018-06-28T11:00:00Z,PM10,71,105,85,NA
+402,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",2018-06-28T11:00:00Z,NO2,17,17,17,NA
+403,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",2018-06-28T11:00:00Z,SO2,1,14,11,NA
+404,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",2018-06-28T11:00:00Z,CO,21,26,24,NA
+405,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,PM2.5,15,64,44,NA
+406,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,PM10,11,45,32,NA
+407,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,NO2,14,17,15,NA
+408,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,NH3,3,4,4,NA
+409,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,SO2,6,10,8,NA
+410,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,CO,32,70,60,NA
+411,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",2018-06-28T11:00:00Z,OZONE,5,19,13,NA
+412,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,PM2.5,11,40,23,NA
+413,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,PM10,11,60,31,NA
+414,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,NO2,19,26,22,NA
+415,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,NH3,2,2,2,NA
+416,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,SO2,5,17,10,NA
+417,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,CO,15,16,15,NA
+418,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",2018-06-28T11:00:00Z,OZONE,3,10,5,NA
+419,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,PM2.5,24,78,53,NA
+420,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+421,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,NO2,15,18,16,NA
+422,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,NH3,1,1,1,NA
+423,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,SO2,5,16,9,NA
+424,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,CO,5,63,22,NA
+425,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",2018-06-28T11:00:00Z,OZONE,3,11,7,NA
+426,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,PM2.5,13,486,126,NA
+427,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,PM10,13,48,33,NA
+428,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,NO2,30,31,31,NA
+429,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,NH3,4,4,4,NA
+430,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,SO2,1,4,3,NA
+431,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,CO,19,32,24,NA
+432,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB",2018-06-28T11:00:00Z,OZONE,38,54,48,NA
+433,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,PM2.5,14,43,28,NA
+434,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,PM10,21,61,40,NA
+435,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,NO2,20,27,24,NA
+436,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,NH3,2,3,2,NA
+437,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,SO2,4,4,4,NA
+438,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,CO,23,49,31,NA
+439,India,Punjab,Patiala,"Model Town, Patiala - PPCB",2018-06-28T11:00:00Z,OZONE,5,17,10,NA
+440,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",2018-06-28T11:00:00Z,PM2.5,4,67,28,NA
+441,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+442,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",2018-06-28T11:00:00Z,NO2,8,16,12,NA
+443,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",2018-06-28T11:00:00Z,SO2,5,11,8,NA
+444,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - PPCB",2018-06-28T11:00:00Z,CO,17,52,25,NA
+445,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,PM2.5,22,74,53,NA
+446,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,PM10,40,91,68,NA
+447,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,NO2,15,45,21,NA
+448,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,NH3,7,11,9,NA
+449,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,SO2,5,7,6,NA
+450,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,CO,19,32,27,NA
+451,India,Rajasthan,Ajmer,"Civil Lines, Ajmer - RSPCB",2018-06-28T11:00:00Z,OZONE,19,73,57,NA
+452,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+453,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+454,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+455,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+456,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+457,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,CO,20,92,48,NA
+458,India,Rajasthan,Alwar,"Moti Doongri, Alwar, Rajasthan - RSPCB",2018-06-28T11:00:00Z,OZONE,10,36,22,NA
+459,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+460,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+461,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+462,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+463,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+464,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,CO,7,51,30,NA
+465,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB",2018-06-28T11:00:00Z,OZONE,5,42,22,NA
+466,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,PM2.5,17,500,115,NA
+467,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,PM10,23,89,41,NA
+468,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,NO2,12,18,14,NA
+469,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,NH3,3,5,3,NA
+470,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,SO2,6,14,7,NA
+471,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,CO,2,55,45,NA
+472,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,OZONE,24,51,36,NA
+473,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",2018-06-28T11:00:00Z,PM2.5,6,438,63,NA
+474,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",2018-06-28T11:00:00Z,PM10,20,105,72,NA
+475,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+476,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",2018-06-28T11:00:00Z,CO,3,96,41,NA
+477,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",2018-06-28T11:00:00Z,OZONE,1,59,10,NA
+478,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,PM2.5,5,65,30,NA
+479,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,PM10,4,51,27,NA
+480,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,NO2,7,27,17,NA
+481,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,NH3,4,12,8,NA
+482,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,SO2,4,29,13,NA
+483,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,CO,16,54,29,NA
+484,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",2018-06-28T11:00:00Z,OZONE,41,77,59,NA
+485,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",2018-06-28T11:00:00Z,PM10,9,170,74,NA
+486,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",2018-06-28T11:00:00Z,NO2,15,58,37,NA
+487,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",2018-06-28T11:00:00Z,SO2,4,18,11,NA
+488,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",2018-06-28T11:00:00Z,CO,2,102,59,NA
+489,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",2018-06-28T11:00:00Z,OZONE,10,82,43,NA
+490,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,PM2.5,15,45,21,NA
+491,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,PM10,74,128,94,NA
+492,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,NO2,6,41,22,NA
+493,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,NH3,3,4,4,NA
+494,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,SO2,4,10,7,NA
+495,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,CO,5,19,9,NA
+496,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",2018-06-28T11:00:00Z,OZONE,10,46,34,NA
+497,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,PM2.5,49,97,71,NA
+498,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,PM10,52,110,81,NA
+499,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,NO2,31,55,40,NA
+500,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,NH3,3,7,6,NA
+501,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,SO2,3,20,10,NA
+502,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,CO,9,23,15,NA
+503,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",2018-06-28T11:00:00Z,OZONE,2,93,48,NA
+504,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,PM2.5,41,500,102,NA
+505,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,PM10,26,121,84,NA
+506,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,NO2,20,70,30,NA
+507,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,NH3,6,13,9,NA
+508,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,SO2,13,27,18,NA
+509,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,CO,18,94,76,NA
+510,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",2018-06-28T11:00:00Z,OZONE,16,29,19,NA
+511,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",2018-06-28T11:00:00Z,PM2.5,36,121,72,NA
+512,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",2018-06-28T11:00:00Z,NO2,29,42,33,NA
+513,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",2018-06-28T11:00:00Z,NH3,2,9,6,NA
+514,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",2018-06-28T11:00:00Z,SO2,5,13,9,NA
+515,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",2018-06-28T11:00:00Z,CO,30,84,61,NA
+516,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",2018-06-28T11:00:00Z,PM2.5,74,179,125,NA
+517,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",2018-06-28T11:00:00Z,NO2,16,24,19,NA
+518,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",2018-06-28T11:00:00Z,SO2,3,10,5,NA
+519,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",2018-06-28T11:00:00Z,CO,19,52,35,NA
+520,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",2018-06-28T11:00:00Z,OZONE,9,55,41,NA
+521,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM2.5,19,60,33,NA
+522,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM10,35,126,67,NA
+523,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NO2,17,42,24,NA
+524,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NH3,2,9,4,NA
+525,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,SO2,7,27,12,NA
+526,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,CO,4,24,11,NA
+527,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",2018-06-28T11:00:00Z,OZONE,6,18,15,NA
+528,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM2.5,20,38,28,NA
+529,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM10,33,68,47,NA
+530,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NO2,12,21,18,NA
+531,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NH3,1,2,1,NA
+532,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,SO2,1,7,4,NA
+533,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,CO,5,15,9,NA
+534,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",2018-06-28T11:00:00Z,OZONE,13,39,35,NA
+535,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+536,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+537,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+538,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+539,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+540,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,CO,11,29,19,NA
+541,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",2018-06-28T11:00:00Z,OZONE,29,41,35,NA
+542,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM2.5,17,44,27,NA
+543,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM10,38,70,46,NA
+544,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NO2,14,84,64,NA
+545,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NH3,3,9,4,NA
+546,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,SO2,1,14,5,NA
+547,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,CO,13,25,19,NA
+548,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",2018-06-28T11:00:00Z,OZONE,5,28,13,NA
+549,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM2.5,23,45,34,NA
+550,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NO2,15,34,22,NA
+551,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",2018-06-28T11:00:00Z,SO2,4,13,7,NA
+552,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",2018-06-28T11:00:00Z,CO,8,26,19,NA
+553,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",2018-06-28T11:00:00Z,OZONE,6,26,21,NA
+554,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+555,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+556,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+557,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+558,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+559,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,CO,13,22,19,NA
+560,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",2018-06-28T11:00:00Z,OZONE,23,26,24,NA
+561,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",2018-06-28T11:00:00Z,PM2.5,22,112,52,NA
+562,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",2018-06-28T11:00:00Z,NO2,33,127,56,NA
+563,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",2018-06-28T11:00:00Z,SO2,2,16,9,NA
+564,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",2018-06-28T11:00:00Z,CO,2,96,45,NA
+565,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",2018-06-28T11:00:00Z,OZONE,7,14,11,NA
+566,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,PM2.5,10,49,27,NA
+567,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,PM10,15,76,47,NA
+568,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,NO2,28,57,41,NA
+569,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,NH3,4,9,6,NA
+570,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,SO2,3,11,6,NA
+571,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,CO,19,37,23,NA
+572,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",2018-06-28T11:00:00Z,OZONE,35,74,71,NA
+573,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,PM2.5,28,78,46,NA
+574,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,PM10,17,92,57,NA
+575,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,NO2,18,64,38,NA
+576,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,NH3,12,17,14,NA
+577,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,SO2,4,32,11,NA
+578,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,CO,21,58,35,NA
+579,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad, UP - UPPCB",2018-06-28T11:00:00Z,OZONE,4,49,34,NA
+580,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,PM2.5,15,500,73,NA
+581,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,PM10,8,500,67,NA
+582,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,NO2,3,33,11,NA
+583,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,NH3,7,13,10,NA
+584,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,SO2,5,22,12,NA
+585,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,CO,26,99,66,NA
+586,India,Uttar_Pradesh,Greater_Noida,"Knowledge Park - III, Greater Noida - UPPCB",2018-06-28T11:00:00Z,OZONE,13,29,21,NA
+587,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",2018-06-28T11:00:00Z,PM2.5,24,56,42,NA
+588,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",2018-06-28T11:00:00Z,NO2,17,83,44,NA
+589,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",2018-06-28T11:00:00Z,SO2,1,31,7,NA
+590,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",2018-06-28T11:00:00Z,CO,15,102,67,NA
+591,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",2018-06-28T11:00:00Z,OZONE,9,44,19,NA
+592,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",2018-06-28T11:00:00Z,PM2.5,12,57,29,NA
+593,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",2018-06-28T11:00:00Z,NO2,24,52,31,NA
+594,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",2018-06-28T11:00:00Z,SO2,1,4,2,NA
+595,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",2018-06-28T11:00:00Z,CO,20,55,37,NA
+596,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",2018-06-28T11:00:00Z,OZONE,5,29,20,NA
+597,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",2018-06-28T11:00:00Z,PM2.5,30,68,44,NA
+598,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",2018-06-28T11:00:00Z,NO2,30,47,40,NA
+599,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",2018-06-28T11:00:00Z,SO2,6,10,8,NA
+600,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",2018-06-28T11:00:00Z,CO,7,51,37,NA
+601,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",2018-06-28T11:00:00Z,OZONE,6,110,17,NA
+602,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",2018-06-28T11:00:00Z,PM2.5,21,69,50,NA
+603,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",2018-06-28T11:00:00Z,NO2,6,19,10,NA
+604,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",2018-06-28T11:00:00Z,SO2,14,17,16,NA
+605,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",2018-06-28T11:00:00Z,CO,5,105,48,NA
+606,India,Uttar_Pradesh,Lucknow,"Nishant Ganj, Lucknow - UPPCB",2018-06-28T11:00:00Z,OZONE,4,19,17,NA
+607,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",2018-06-28T11:00:00Z,PM2.5,1,500,161,NA
+608,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",2018-06-28T11:00:00Z,NO2,39,46,41,NA
+609,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",2018-06-28T11:00:00Z,NH3,9,9,9,NA
+610,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",2018-06-28T11:00:00Z,SO2,7,29,16,NA
+611,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",2018-06-28T11:00:00Z,CO,24,40,30,NA
+612,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+613,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+614,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+615,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,NH3,NA,NA,NA,NA
+616,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+617,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,CO,1,9,4,NA
+618,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",2018-06-28T11:00:00Z,OZONE,15,44,31,NA
+619,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,PM2.5,10,436,91,NA
+620,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,PM10,19,95,46,NA
+621,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,NO2,33,71,54,NA
+622,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,NH3,1,3,2,NA
+623,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,SO2,7,18,11,NA
+624,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,CO,38,83,60,NA
+625,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",2018-06-28T11:00:00Z,OZONE,7,33,25,NA
+626,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,PM2.5,15,50,37,NA
+627,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,PM10,16,91,53,NA
+628,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,NO2,7,69,21,NA
+629,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,NH3,6,12,10,NA
+630,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,SO2,1,8,6,NA
+631,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,CO,9,38,17,NA
+632,India,Uttar_Pradesh,Noida,"Sector - 125, Noida, UP - UPPCB",2018-06-28T11:00:00Z,OZONE,5,57,38,NA
+633,India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",2018-06-28T11:00:00Z,PM2.5,NA,NA,NA,NA
+634,India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+635,India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",2018-06-28T11:00:00Z,NO2,27,153,98,NA
+636,India,Uttar_Pradesh,Noida,"Sector - 62, Noida, UP - IMD",2018-06-28T11:00:00Z,OZONE,10,49,49,NA
+637,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",2018-06-28T11:00:00Z,PM2.5,10,120,57,NA
+638,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",2018-06-28T11:00:00Z,PM10,15,200,85,NA
+639,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",2018-06-28T11:00:00Z,NO2,8,45,25,NA
+640,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",2018-06-28T11:00:00Z,SO2,15,60,26,NA
+641,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",2018-06-28T11:00:00Z,CO,11,78,41,NA
+642,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",2018-06-28T11:00:00Z,OZONE,2,78,51,NA
+643,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+644,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+645,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+646,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",2018-06-28T11:00:00Z,CO,NA,NA,NA,NA
+647,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",2018-06-28T11:00:00Z,OZONE,NA,NA,NA,NA
+648,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",2018-06-28T11:00:00Z,PM10,NA,NA,NA,NA
+649,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",2018-06-28T11:00:00Z,NO2,NA,NA,NA,NA
+650,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",2018-06-28T11:00:00Z,SO2,NA,NA,NA,NA
+651,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,PM2.5,21,47,31,NA
+652,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,PM10,26,61,39,NA
+653,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,NO2,11,39,21,NA
+654,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,NH3,2,3,2,NA
+655,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,SO2,2,36,11,NA
+656,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,CO,18,40,24,NA
+657,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",2018-06-28T11:00:00Z,OZONE,14,53,26,NA
+658,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,PM2.5,16,52,35,NA
+659,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,PM10,21,309,51,NA
+660,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,NO2,2,15,6,NA
+661,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,NH3,3,5,4,NA
+662,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,SO2,1,3,1,NA
+663,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,CO,10,32,16,NA
+664,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",2018-06-28T11:00:00Z,OZONE,7,21,14,NA
+665,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,PM2.5,9,114,41,NA
+666,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,PM10,16,49,28,NA
+667,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,NO2,14,49,26,NA
+668,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,NH3,1,3,2,NA
+669,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,SO2,1,3,1,NA
+670,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,CO,12,18,15,NA
+671,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",2018-06-28T11:00:00Z,OZONE,7,32,17,NA
+672,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,PM2.5,7,50,30,NA
+673,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,PM10,17,56,32,NA
+674,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,NO2,7,44,19,NA
+675,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,NH3,1,4,3,NA
+676,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,SO2,2,3,3,NA
+677,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,CO,30,74,53,NA
+678,India,West_Bengal,Siliguri,"Ward-32 Bapupara, Siliguri - WBPCB",2018-06-28T11:00:00Z,OZONE,3,29,17,NA
